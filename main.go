@@ -36,8 +36,8 @@ is in the last row of the first column. This way we can
 repeate the steps; if we need a larger matrix.
 
    7 6 5
-	8 1 4
-	9 2 3
+   8 1 4
+   9 2 3
 
 Now we print the Matrix.
 
